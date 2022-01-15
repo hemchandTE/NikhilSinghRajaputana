@@ -1,0 +1,528 @@
+@media (min-width:1920px) {}
+
+@media (min-width:992px) and (max-width:1169px) {
+    .header-right-link a.main-search {
+        padding: 27px 0px 27px 10px;
+    }
+    .main-menu ul.navbar-nav>li>a {
+        padding: 37px 0px;
+    }
+    .header-area.stick .main-menu ul.navbar-nav li a {
+        padding: 29px 0px;
+    }
+    .header-area.stick .header-right-link a.main-search {
+        padding: 19px 0px 19px 10px;
+    }
+    .project-dec h4 {
+        font-size: 17px;
+    }
+    .single-service-inner {
+        padding: 20px 10px;
+    }
+    .page-head-left {
+        padding-right: 0px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .header-area .main-menu ul.navbar-nav>li>a {
+        font-size: 12px;
+        margin: 0px 6px;
+        padding: 25px 0px;
+    }
+    .header-area.stick .main-menu ul.navbar-nav>li>a {
+        font-size: 12px;
+        margin: 0px 6px;
+        padding: 20px 0px;
+    }
+    .main-menu ul.nav li ul.sub-menu {
+        left: -75px;
+    }
+    .logo a {
+        padding: 10px 0;
+    }
+    /*below added by venky*/
+    .isotext {
+        font-size: 6px;
+        color: #FFF;
+        font-weight: 600;
+        margin: 0px;
+    }
+    .header-area.stick .isotext {
+        font-size: 6px;
+        color: #000;
+        font-weight: 600;
+        margin: 0px;
+    }
+    /*added by venky*/
+    .header-area.stick .logo a {
+        padding: 5px 0;
+    }
+    .header-right-link a.main-search {
+        padding: 15px 0px 15px 10px;
+        font-size: 16px;
+    }
+    .header-area.stick .header-right-link a.main-search {
+        padding: 10px 0px 11px 10px;
+    }
+    .topbar-left ul li a {
+        margin-right: 10px;
+    }
+    .layer-1 h1 {
+        font-size: 36px;
+        line-height: 44px;
+        max-width: 500px;
+    }
+    .slider-content {
+        margin-top: -130px;
+    }
+    .single-about {
+        padding: 30px 15px;
+    }
+    .icon-text h4 {
+        font-size: 22px;
+    }
+    .about-content h3 {
+        line-height: 30px;
+        font-size: 22px;
+    }
+    .about-content p {
+        display: none;
+    }
+    .about-details {
+        padding-top: 0px;
+    }
+    .left-headline {
+        padding: 40px 15px;
+    }
+    .left-headline h2 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .left-headline p {
+        font-size: 15px;
+    }
+    .single-service-inner {
+        padding: 40px 15px;
+    }
+    .video-play.vid-zone {
+        font-size: 26px;
+        height: 70px;
+        line-height: 68px;
+        width: 70px;
+    }
+    .about-content {
+        padding: 20px 30px;
+    }
+    .center-headline h3 {
+        max-width: 670px;
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .service-icon a {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .service-icon {
+        margin-right: 10px;
+    }
+    .service-text {
+        padding-left: 70px;
+    }
+    .choose-content {
+        padding-left: 95px;
+    }
+    .choose-headline h3 {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .intro-area-2 .slider-content {
+        margin-top: -60px;
+    }
+    .welcome-area.welcome-area-2 {
+        top: 0px;
+        padding: 80px 0px;
+    }
+    .intro-area-2 .layer-1 h1 {
+        font-size: 34px;
+        line-height: 40px;
+        max-width: 620px;
+        margin-bottom: 10px;
+    }
+    .layer-2 p {
+        max-width: 600px;
+        margin-bottom: 15px;
+    }
+    .team-content {
+        width: 90%;
+        top: 60%;
+    }
+    .single-team:hover .team-content {
+        top: 20%;
+    }
+    .team-text p {
+        display: none;
+    }
+    .banner-content h4 {
+        font-size: 24px;
+        max-width: 650px;
+    }
+    .welcome-area-3 {
+        top: 0px;
+        padding: 80px 0px;
+    }
+    .intro-area-3 .slider-content .layer-1 h1 {
+        margin: 0px auto 10px;
+    }
+    .intro-area-3 .slider-content {
+        margin-top: -70px;
+    }
+    .page-head-left {
+        padding-right: 0px;
+    }
+    .down-btn {
+        padding: 12px 10px;
+    }
+    .single-well h3 {
+        font-size: 28px;
+    }
+    .project-details {
+        padding: 20px 10px 10px;
+    }
+    .project-details h4 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .project-history {
+        padding: 20px 10px;
+    }
+    .project-name ul li {
+        font-size: 15px;
+    }
+    .project-name span {
+        padding-right: 8px;
+        min-width: 100px;
+    }
+    .project-history h4 {
+        font-size: 20px;
+    }
+    .project-list h4 {
+        font-size: 22px;
+    }
+    .left-head-blog {
+        padding: 30px 10px;
+    }
+    .blog-search-option input {
+        width: 65%;
+    }
+    .recent-single-post .post-img {
+        display: none;
+    }
+    .recent-single-post .pst-content {
+        padding-left: 0px;
+    }
+    .banner-content h3 {
+        font-size: 26px;
+        line-height: 36px;
+        max-width: 660px;
+    }
+}
+
+@media (max-width:767px) {
+    /*added by venky*/
+    .isocerti {
+        display: block;
+        font-weight: bolder;
+    }
+    /*added by venky*/
+    .container {
+        width: 85%;
+    }
+    .logo {
+        height: inherit;
+        left: 0;
+        padding: 0;
+        position: absolute;
+        top: 0px;
+        z-index: 999999;
+        max-width: 200px;
+    }
+    .footer-head .logo {
+        position: relative;
+    }
+    .header-area.stick .header-right-link a.main-search {
+        padding: 17px 0px 18px 5px;
+    }
+    .header-area-2 .header-right-link .slice-btn {
+        padding: 20px 0px;
+    }
+    .header-area-2.stick .header-right-link .slice-btn {
+        padding: 20px 0px;
+    }
+    .header-area .header-right-link .slice-btn {
+        padding: 28px 0px;
+    }
+    .header-area.stick .header-right-link .slice-btn {
+        padding: 24px 0px;
+    }
+    .header-area.stick .main-menu ul.navbar-nav>li>a {
+        font-size: 12px;
+        margin: 0px 11px;
+        padding: 27px 0px;
+    }
+    .header-area.stick .logo a {
+        padding: 11px 0;
+    }
+    .logo a {
+        padding: 0px;
+    }
+    .header-right-link a.main-search {
+        padding: 20px 0px 20px 5px;
+    }
+    .pagess::after {
+        display: none;
+    }
+    .slider-content {
+        margin-top: -135px;
+    }
+    .layer-1 {
+        margin: 5px 0;
+    }
+    .layer-1 h1 {
+        font-size: 23px;
+        line-height: 34px;
+        margin-bottom: 10px;
+        letter-spacing: 0px;
+    }
+    .layer-2 p {
+        font-size: 14px;
+        line-height: 24px;
+        max-width: 690px;
+        letter-spacing: inherit;
+        margin-bottom: 15px;
+    }
+    .ready-btn {
+        font-size: 14px;
+        padding: 8px 10px;
+        width: 130px;
+    }
+    .services-headline p,
+    .services-headline::after {
+        display: none;
+    }
+    .services-headline h3 {
+        font-size: 24px;
+        width: 100%;
+        line-height: 34px;
+        text-align: left;
+        padding-right: 0px;
+    }
+    .intro-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev,
+    .intro-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next {
+        display: none !important;
+    }
+    .intro-content,
+    .slider-images img {
+        width: 100%;
+        height: 100%;
+        min-height: 400px;
+        object-fit: cover;
+    }
+    .about-image::after {
+        right: -334px;
+        top: 222px;
+    }
+    .video-play.vid-zone {
+        font-size: 24px;
+        height: 60px;
+        line-height: 58px;
+        width: 60px;
+    }
+    .half-headline h3 {
+        font-size: 22px;
+        width: 100%;
+        padding-right: 0px;
+    }
+    .half-headline p {
+        display: none;
+    }
+    .single-about {
+        margin-top: 30px;
+    }
+    .left-headline {
+        margin-bottom: 30px;
+    }
+    .left-headline h2 {
+        font-size: 36px;
+        line-height: 44px;
+    }
+    .left-headline p {
+        font-size: 15px;
+    }
+    .fun_text {
+        margin: 15px 0px;
+    }
+    .center-headline h3 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .about-image {
+        margin-bottom: 30px;
+    }
+    .video-text h4 {
+        font-size: 22px;
+    }
+    .blog-right-column .blog-image {
+        overflow: hidden;
+        float: none;
+        width: 100%;
+        min-height: inherit;
+    }
+    .blog-right-column .blog-content {
+        float: none;
+        height: 100%;
+        width: 100%;
+        padding: 30px 20px 10px;
+        min-height: inherit;
+    }
+    .footer-content {
+        margin-bottom: 40px;
+    }
+    .last-footer {
+        margin-bottom: 0px;
+    }
+    .choose-headline h3 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-top: 30px;
+    }
+    .team-content {
+        width: 90%;
+        top: 68%;
+    }
+    .single-team:hover .team-content {
+        top: 20%;
+    }
+    .team-text p {
+        display: none;
+    }
+    .banner-content h4 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .banner-contact span {
+        font-size: 18px;
+        margin-right: 0px;
+        margin-bottom: 20px;
+        display: block;
+    }
+    .intro-area-2 .slider-content {
+        margin-top: -85px;
+    }
+    .intro-area-2 .layer-1 h1 {
+        font-size: 21px;
+        line-height: 30px;
+        letter-spacing: inherit;
+        margin-bottom: 10px;
+    }
+    .welcome-area.welcome-area-2 {
+        /*top:0px;*/
+        padding: 80px 0px;
+        top: -40px;
+        /*added by venky*/
+    }
+    .welcome-area-3 {
+        top: 0px;
+        padding: 80px 0px;
+    }
+    .copyright {
+        text-align: center;
+    }
+    .copyright ul {
+        text-align: inherit;
+        margin-top: 15px;
+    }
+    .intro-area-3 .slider-content {
+        text-align: center;
+        margin-top: -95px;
+    }
+    .intro-area-3 .slider-content .layer-1 h1,
+    .intro-area-3 .slider-content .layer-1 p {
+        margin: 0px auto 15px;
+    }
+    .breadcrumb .section-headline {
+        display: block;
+        text-align: center;
+    }
+    .breadcrumb-bg {
+        float: none;
+        text-align: center;
+    }
+    .faq-area .faq-content {
+        margin-top: 40px;
+    }
+    .breadcrumb .section-headline h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .page-head-left {
+        padding-right: 0px;
+    }
+    .single-well h3 {
+        font-size: 24px;
+    }
+    .project-menu li a {
+        font-size: 16px;
+        padding: 8px 20px;
+        width: 110px;
+        margin-bottom: 10px;
+    }
+    .project-details h4 {
+        font-size: 19px;
+    }
+    .project-history {
+        padding: 30px 15px;
+        margin-top: 30px;
+    }
+    .project-list h4 {
+        margin-top: 30px;
+        font-size: 19px;
+    }
+    .left-head-blog {
+        margin-top: 40px;
+    }
+    .blog-search-option input {
+        width: 72%;
+    }
+    .office-city {
+        padding: 40px 15px 20px;
+    }
+    .single-icon i {
+        margin-right: 10px;
+    }
+    .single-icon p {
+        font-size: 14px;
+    }
+    .office-city {
+        margin-bottom: 40px;
+    }
+    .banner-content h3 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+    .container {
+        width: 450px
+    }
+    .layer-1 h1 {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 20px;
+        letter-spacing: 0px;
+    }
+    .slider-content {
+        margin-top: -120px;
+    }
+}
